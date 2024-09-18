@@ -1,3 +1,5 @@
+//  OBJECT EXAMPLE
+
 const employee={
     calcTax(){
         console.log("Tax rate is 10%");
